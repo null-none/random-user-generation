@@ -1,9 +1,19 @@
 Class for use https://randomuser.me/
 
 =======
+Install
+=======
+
+```
+pip install random-user-generation 
+```
+
+
+=======
 Example
 =======
 
+```
 from generation import RandomUserGeneration
 
 user = RandomUserGeneration()
@@ -27,3 +37,4 @@ print user.get_mail()
 print user.get_username()
 
 print user.get_gender()
+```
