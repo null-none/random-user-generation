@@ -5,15 +5,18 @@ Install
 =======
 
 ```
-pip install random-user-generation 
-```
+#!bash
 
+pip install random-user-generation
+```
 
 =======
 Example
 =======
 
 ```
+#!bash
+
 from generation import RandomUserGeneration
 
 user = RandomUserGeneration()
