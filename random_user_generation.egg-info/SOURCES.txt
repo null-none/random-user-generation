@@ -1,0 +1,11 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+setup.py
+random-user-generation/__init__.py
+random-user-generation/example.py
+random-user-generation/generation.py
+random_user_generation.egg-info/PKG-INFO
+random_user_generation.egg-info/SOURCES.txt
+random_user_generation.egg-info/dependency_links.txt
+random_user_generation.egg-info/top_level.txt
