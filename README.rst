@@ -40,6 +40,3 @@ License
 
 MIT
 
-    print user.get_username()
-
-    print user.get_gender()
