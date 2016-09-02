@@ -33,6 +33,12 @@ Example
     print user.get_phone()
 
     print user.get_mail()
+    
+=======
+License
+=======
+
+MIT
 
     print user.get_username()
 
